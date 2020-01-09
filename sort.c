@@ -1,9 +1,9 @@
 #include <stdio.h>
-    void main()
+    void sort()
     {
  
         int i, j, a, n, number[30];
-        printf("Enter the value of N \n");
+        printf(" /n /n Enter the value of N \n");
         scanf("%d", &n);
  
         printf("Enter the numbers \n");
